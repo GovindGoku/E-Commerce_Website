@@ -1,5 +1,8 @@
 # E-Commerce_Website
+A fully responsive E-Commerce website,
+Responsive for all devices, build using HTML, CSS, and JavaScript.
 
+Demo Screeshots
 ![Screenshot 2023-07-28 174023](https://github.com/GovindGoku/E-Commerce_Website/assets/117507364/7e12d8b1-288e-4faa-b7f6-0a11941706e2)
 ![Screenshot 2023-07-28 174149](https://github.com/GovindGoku/E-Commerce_Website/assets/117507364/acbdb86a-63f1-4837-a124-60fa0af1b9de)
 ![Screenshot 2023-07-28 174301](https://github.com/GovindGoku/E-Commerce_Website/assets/117507364/3d579f75-e468-49a8-abcf-d0ce95ec662a)
