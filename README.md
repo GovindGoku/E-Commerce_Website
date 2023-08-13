@@ -1,5 +1,5 @@
 # E-Commerce_Website
-A fully responsive Multi page E-Commerce website,
+A fully responsive multi page E-Commerce website,
 Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 **Demo Screenshots**
